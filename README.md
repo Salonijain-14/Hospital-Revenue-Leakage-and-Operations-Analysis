@@ -35,7 +35,7 @@ billing : bill_id (PK), patient_id (FK), treatment_id (FK), total_amount, paymen
 ---
 
 ## Files in This Repository
-- Hospital-Revenue-Leakage-and-Operations-Analysis.sql - all queries with comments
+- `Hospital-Revenue-Leakage-and-Operations-Analysis.sql` - all queries with comments
 
 ---
 
