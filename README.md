@@ -40,6 +40,6 @@ billing : bill_id (PK), patient_id (FK), treatment_id (FK), total_amount, paymen
 ---
 
 ## How to Run
-1.Download Hospital-Revenue-Leakage-and-Operations-Analysis.sql from the repository
-2.Load the script into MySQL Workbench or your preferred SQL tool
-3.Run queries in order — each block is annotated with its business question
+- 1.Download Hospital-Revenue-Leakage-and-Operations-Analysis.sql from the repository
+- 2.Load the script into MySQL Workbench or your preferred SQL tool
+- 3.Run queries in order — each block is annotated with its business question
