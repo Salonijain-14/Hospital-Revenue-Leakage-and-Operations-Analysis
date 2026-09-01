@@ -72,6 +72,8 @@
 -- 9.Which top 3 insurance providers represent the highest outstanding paid balances for the hospital?
 -- 10.How do unpaid insurance claim rates and payment delays vary across different patient age demographics?*/
 
+create database hospitals;
+use hospitals;
 
 -- RETRIEVES ALL RECORDS FROM IMPORTED DATA FROM EXCEL :
 SELECT * FROM hospitals.`appoinments copy`;
